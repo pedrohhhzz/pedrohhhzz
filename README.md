@@ -8,7 +8,7 @@ C language
 
 #### Studying in this moment:
 
-C language
+C language and
 javascript
 
 
