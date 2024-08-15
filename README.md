@@ -4,11 +4,12 @@
 ## My Skills
 
 #### Main Stack:
+Java Script
 C language
 
 #### Studying in this moment:
 
-C language and
+
 javascript
 
 
