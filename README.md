@@ -4,13 +4,13 @@
 ## My Skills
 
 #### Main Stack:
-Java Script
+Java Script, React js
 C language
 
 #### Studying in this moment:
 
 
-javascript
+javascript, React js
 
 
 
